@@ -19,3 +19,5 @@ print(String(format: "%.6f", positive/Double(arr.count)))
 print(String(format: "%.6f", negative/Double(arr.count)))
 print(String(format: "%.6f", zero/Double(arr.count)))
 
+var m = "dfdf"
+
